@@ -1,0 +1,28 @@
+# Core
+#python==3.10.*
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+openpyxl==3.1.2
+
+# Visualización
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# EDA y notebooks
+jupyter==1.0.0
+notebook==7.2.0
+ipywidgets==8.1.2
+tqdm==4.66.4
+
+# NLP / Embeddings
+sentence-transformers==2.7.0
+transformers==4.41.2
+torch==2.3.0
+tokenizers==0.19.1
+
+# Comparación básica de texto
+rapidfuzz==3.6.2
+
+# Para visualización si dse desea hacer algo extra fuera de Power BI
+plotly==5.22.0
