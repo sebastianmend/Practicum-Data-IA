@@ -23,6 +23,15 @@ tokenizers==0.19.1
 
 # Comparación básica de texto
 rapidfuzz==3.6.2
+unidecode
 
 # Para visualización si dse desea hacer algo extra fuera de Power BI
 plotly==5.22.0
+
+pandas
+torch
+sentence-transformers
+transformers
+huggingface_hub
+python-dotenv
+unidecode
