@@ -19,7 +19,7 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Data files (opcional)
+# Data files 
 *.csv
 *.xlsx
 *.json
